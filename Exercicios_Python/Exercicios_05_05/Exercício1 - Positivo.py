@@ -1,0 +1,3 @@
+lista = [ ]
+
+fim = int(input(""))
