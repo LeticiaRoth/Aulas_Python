@@ -22,4 +22,4 @@ As atividades têm como objetivo fortalecer a base da programação e proporcion
 
 1. Faça o clone do repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/LeticiaRoth/Aulas_Python.git
