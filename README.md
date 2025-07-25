@@ -36,5 +36,6 @@ As atividades têm como objetivo fortalecer a base da programação e proporcion
 │   └── Aula laço de repetição (WHILE)
 │   └── Aula de listas
 │   └── Aula de Função
+│   └── Aula de Função com parâmetro
 ├── Exercicios_Python
 
