@@ -1,6 +1,6 @@
 # Repositório de Atividades em Python
 <p align="center">
-  <img src="Logo_Python\python.png" alt="Ícone do pyth" width="200">
+  <img src="Logo_Python\python.png" alt="Ícone do pyth" width="140">
 </p>
 
 Este repositório contém uma coleção de atividades desenvolvidas com a linguagem Python, com foco em práticas de lógica de programação, estruturas de controle, funções, manipulação de dados e projetos introdutórios.
