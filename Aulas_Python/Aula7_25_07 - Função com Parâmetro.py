@@ -9,7 +9,7 @@ saudacao("Maria")
 -> Passo o parâmetro, muito utilizada quando o valor varia,
     sempre pode mudar, como em uma calculadora.
 
------------------------------------------
+-----------------------------------------------
 
 EX 2:
 def imparPar(numero):
@@ -42,7 +42,7 @@ cidade('São', 'Paulo')
 
 cidade(parte2='São', parte1='Paulo')
 
------------------------------------------------
+------------------------------------------------
 
 EX 5:
 def medida(numero, referencia=60):
@@ -53,4 +53,22 @@ def medida(numero, referencia=60):
 
 #Vai mostrar os icones em azul, mostrando o valor dos parâmetros, no caso numero e referencia
 medida(40, 30)
+-----------------------------------------------
+
+EX 6:
+
+nome = "Arroz"
+
+def comida():
+    # Como a variável está fora da def, precio colocar global para linkar, caso esteja fora
+    global nome
+
+    #Vai concatenar e juntar
+    nome = nome + 'e miojo'
+    print(nome)
+
+comida()
+
+
+---------------------------------------------
 """
