@@ -34,5 +34,4 @@ As atividades têm como objetivo fortalecer a base da programação e proporcion
 │   └── Aula de listas
 │   └── Aula de Função
 ├── Exercicios_Python
-│   └── Laços for, while e uso de break/continue
 
