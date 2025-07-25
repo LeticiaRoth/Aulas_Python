@@ -15,7 +15,6 @@ As atividades têm como objetivo fortalecer a base da programação e proporcion
 - Listas, tuplas, dicionários e conjuntos
 - Manipulação de strings e arquivos
 - Exercícios de fixação e desafios lógicos
-- Mini projetos práticos
 
 ---
 
