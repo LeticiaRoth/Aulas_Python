@@ -19,6 +19,7 @@ def calcular_media_homem_natacao(habitantes):
         media_idade = soma_idades / len(homens_natacao)
         print(f"Idade média dos homens que gostam de natação: {media_idade}")
     else:
+        #Puxo o def de aviso que criei
         aviso_nenhum_homem_natacao()
 
 
