@@ -1,20 +1,3 @@
-'''
-5 Funções:
-1 - Cadastro;
-2 - Login;
-3 - Mudar Senha;
-4 - Logout;
-5 - Definir qual opção o usuário deseja escolher.
-
-Regras:
-    - Só é possível realizar um cadastro se não houver nenhum anterior;
-    - Só é possível realizar login se houver um cadastro;
-    - Só é possível realizar login se o usuário informar corretamente username e senha;
-    - Só é possível alterar a senha se o usuário estiver logado;
-    - Só é possível alterar a senha se o usuário informar corretamente a senha atual;
-    - Só é possível realizar logout se o usuário estiver logado.
-'''
-
 # Variáveis principais
 nome_usuario = None
 chave_acesso = None
