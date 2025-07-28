@@ -101,6 +101,15 @@ def jogadas(nome, **kwargs):
     return f"{nome} perdeu!"
 
 print(jogadas('Marcelo', j1=9,j2=8,j8=10,j4=9,j5=6))
+
+
+
+
+EX 5 - Passando parametros
+def apresentarNotas(joao,carlos,jessica):
+    print(f'João: {joao}, Carlos:{carlos}, Jessica:{jessica}')
+
+notas = {'joao': 7, 'carlos': 10, 'jessica': 9}
+apresentarNotas(**notas)
+
 """
-
-
